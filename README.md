@@ -11,7 +11,7 @@
 | <a href="https://github.com/Joripje" width="100px">Joripje</a> | <a href="https://github.com/kimsj-git" width="100px">kimsj-git</a> | <a href="https://github.com/mucho7" width="100px">mucho7</a> | <a href="https://github.com/seotai" width="100px">seotai</a> | <a href="https://github.com/sjsjlim" width="100px">sjsjlim</a> | <a href="https://github.com/TraceofLight" width="100px">TraceofLight</a> |
 
 
-## :loudspeaker: Meeting at
+## :loudspeaker: Meeting at..
 
 - 정기 모임: 매주 토요일 10시
 - 모임 방식: 비대면 Discord 채널을 통한 실시간 소통
@@ -73,7 +73,8 @@
 
 - Based on `Python`
 
-- Platform 코드는 백준: `boj`, 프로그래머스: `ps` 로 통일
+- Platform 코드는 백준: `boj`, 프로그래머스: `ps`, 리트코드: `lc` 로 통일
+
 - 업로드 후 README의 Records 항목을 추가하고 Reports 에 경로를 추가할 것
 
 ### Computer Science :wave:
@@ -83,946 +84,935 @@
 ## :movie_camera: Records
 
 <details>
-    <summary><b>Week 01</b></summary>
-    <hr>
-    <p>
-        2022-08-01
-    </p>
-    <table border="1">
-	<th>Report By</th>
-	<th>Status</th>
-	<th>Reports</th>
-	<th>Short Description</th>
-	<!-- line Unit 1 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 2 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 3 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 4 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 5 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 6 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-    </table>
-    <hr>
-</details>
-
-<details>
-    <summary><b>Week 02</b></summary>
-    <hr>
-    <p>
-        2022-08-06
-    </p>
-    <table border="1">
-	<th>Report By</th>
-	<th>Status</th>
-	<th>Reports</th>
-	<th>Short Description</th>
-	<!-- line Unit 1 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 2 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 3 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 4 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 5 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 6 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-    </table>
-    <hr>
-</details>
-
-<details>
-	<summary><b>Week 03</b></summary>
-    <hr>
-    <p>
-        2022-08-13
-    </p>
-    <table border="1">
-	<th>Report By</th>
-	<th>Status</th>
-	<th>Reports</th>
-	<th>Short Description</th>
-	<!-- line Unit 1 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 2 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 3 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 4 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 5 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 6 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-    </table>
-    <hr>
-</details>
-
-<details>
-	<summary><b>Week 04</b></summary>
-    <hr>
-    <p>
-        2022-08-20
-    </p>
-    <table border="1">
-	<th>Report By</th>
-	<th>Status</th>
-	<th>Reports</th>
-	<th>Short Description</th>
-	<!-- line Unit 1 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 2 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 3 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 4 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 5 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 6 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-    </table>
-    <hr>
-</details>
-
-<details>
-	<summary><b>Week 05</b></summary>
-    <hr>
-    <p>
-        2022-08-27
-    </p>
-    <table border="1">
-	<th>Report By</th>
-	<th>Status</th>
-	<th>Reports</th>
-	<th>Short Description</th>
-	<!-- line Unit 1 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 2 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 3 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 4 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 5 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 6 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-    </table>
-    <hr>
-</details>
-
-<details>
-	<summary><b>Week 06</b></summary>
-    <hr>
-    <p>
-        2022-09-03
-    </p>
-    <table border="1">
-	<th>Report By</th>
-	<th>Status</th>
-	<th>Reports</th>
-	<th>Short Description</th>
-	<!-- line Unit 1 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 2 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 3 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 4 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 5 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 6 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-    </table>
-    <hr>
-</details>
-
-<details>
-	<summary><b>Week 07</b></summary>
-    <hr>
-    <p>
-        2022-09-10
-    </p>
-    <table border="1">
-	<th>Report By</th>
-	<th>Status</th>
-	<th>Reports</th>
-	<th>Short Description</th>
-	<!-- line Unit 1 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 2 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 3 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 4 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 5 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 6 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-    </table>
-    <hr>
-</details>
-
-<details>
-	<summary><b>Week 08</b></summary>
-    <hr>
-    <p>
-        2022-09-17
-    </p>
-    <table border="1">
-	<th>Report By</th>
-	<th>Status</th>
-	<th>Reports</th>
-	<th>Short Description</th>
-	<!-- line Unit 1 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 2 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 3 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 4 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 5 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 6 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-    </table>
-    <hr>
-</details>
-
-<details>
-	<summary><b>Week 09</b></summary>
-    <hr>
-    <p>
-        2022-09-24
-    </p>
-    <table border="1">
-	<th>Report By</th>
-	<th>Status</th>
-	<th>Reports</th>
-	<th>Short Description</th>
-	<!-- line Unit 1 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 2 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 3 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 4 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 5 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 6 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-    </table>
-    <hr>
-</details>
-
-<details>
-	<summary><b>Week 10</b></summary>
-    <hr>
-    <p>
-        2022-10-01
-    </p>
-    <table border="1">
-	<th>Report By</th>
-	<th>Status</th>
-	<th>Reports</th>
-	<th>Short Description</th>
-	<!-- line Unit 1 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 2 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 3 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 4 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 5 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 6 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-    </table>
-    <hr>
-</details>
-
-<details>
-	<summary><b>Week 11</b></summary>
-    <hr>
-    <p>
-        2022-10-08
-    </p>
-    <table border="1">
-	<th>Report By</th>
-	<th>Status</th>
-	<th>Reports</th>
-	<th>Short Description</th>
-	<!-- line Unit 1 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 2 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 3 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 4 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 5 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 6 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-    </table>
-    <hr>
-</details>
-
-<details>
-	<summary><b>Week 12</b></summary>
-    <hr>
-    <p>
-        2022-10-15
-    </p>
-    <table border="1">
-	<th>Report By</th>
-	<th>Status</th>
-	<th>Reports</th>
-	<th>Short Description</th>
-	<!-- line Unit 1 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 2 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 3 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 4 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 5 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 6 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-    </table>
-    <hr>
-</details>
-
-<details>
-	<summary><b>Week 13</b></summary>
-    <hr>
-    <p>
-        2022-10-22
-    </p>
-    <table border="1">
-	<th>Report By</th>
-	<th>Status</th>
-	<th>Reports</th>
-	<th>Short Description</th>
-	<!-- line Unit 1 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 2 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 3 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 4 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 5 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 6 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-    </table>
-    <hr>
-</details>
-
-<details>
-	<summary><b>Week 14</b></summary>
-    <hr>
-    <p>
-        2022-10-29
-    </p>
-    <table border="1">
-	<th>Report By</th>
-	<th>Status</th>
-	<th>Reports</th>
-	<th>Short Description</th>
-	<!-- line Unit 1 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 2 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 3 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 4 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 5 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 6 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-    </table>
-    <hr>
-</details>
-
-<details>
-	<summary><b>Week 15</b></summary>
-    <hr>
-    <p>
-        2022-11-06
-    </p>
-    <table border="1">
-	<th>Report By</th>
-	<th>Status</th>
-	<th>Reports</th>
-	<th>Short Description</th>
-	<!-- line Unit 1 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 2 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 3 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 4 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 5 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-	<!-- line Unit 6 -->
-	<tr>
-	    <td>TraceofLight</td>
-	    <td>Proceeding</td>
-        <td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
-	    <td>Data Structure</td>
-	</tr>
-	<!-- line Unit End -->
-    </table>
-    <hr>
+	<summary><b>Click Here to See All Records</b></summary>
+	<details>
+			<summary><b>Week 01</b></summary>
+			<hr>
+			<p>
+					2022-08-01
+			</p>
+			<table border="1">
+		<th>Report By</th>
+		<th>Status</th>
+		<th>Reports</th>
+		<th>Short Description</th>
+		<!-- line Unit 1 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 2 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 3 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 4 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 5 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 6 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+			</table>
+			<hr>
+	</details>
+	<details>
+			<summary><b>Week 02</b></summary>
+			<hr>
+			<p>
+					2022-08-06
+			</p>
+			<table border="1">
+		<th>Report By</th>
+		<th>Status</th>
+		<th>Reports</th>
+		<th>Short Description</th>
+		<!-- line Unit 1 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 2 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 3 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 4 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 5 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 6 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+			</table>
+			<hr>
+	</details>
+	<details>
+		<summary><b>Week 03</b></summary>
+			<hr>
+			<p>
+					2022-08-13
+			</p>
+			<table border="1">
+		<th>Report By</th>
+		<th>Status</th>
+		<th>Reports</th>
+		<th>Short Description</th>
+		<!-- line Unit 1 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 2 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 3 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 4 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 5 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 6 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+			</table>
+			<hr>
+	</details>
+	<details>
+		<summary><b>Week 04</b></summary>
+			<hr>
+			<p>
+					2022-08-20
+			</p>
+			<table border="1">
+		<th>Report By</th>
+		<th>Status</th>
+		<th>Reports</th>
+		<th>Short Description</th>
+		<!-- line Unit 1 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 2 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 3 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 4 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 5 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 6 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+			</table>
+			<hr>
+	</details>
+	<details>
+		<summary><b>Week 05</b></summary>
+			<hr>
+			<p>
+					2022-08-27
+			</p>
+			<table border="1">
+		<th>Report By</th>
+		<th>Status</th>
+		<th>Reports</th>
+		<th>Short Description</th>
+		<!-- line Unit 1 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 2 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 3 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 4 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 5 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 6 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+			</table>
+			<hr>
+	</details>
+	<details>
+		<summary><b>Week 06</b></summary>
+			<hr>
+			<p>
+					2022-09-03
+			</p>
+			<table border="1">
+		<th>Report By</th>
+		<th>Status</th>
+		<th>Reports</th>
+		<th>Short Description</th>
+		<!-- line Unit 1 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 2 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 3 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 4 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 5 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 6 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+			</table>
+			<hr>
+	</details>
+	<details>
+		<summary><b>Week 07</b></summary>
+			<hr>
+			<p>
+					2022-09-10
+			</p>
+			<table border="1">
+		<th>Report By</th>
+		<th>Status</th>
+		<th>Reports</th>
+		<th>Short Description</th>
+		<!-- line Unit 1 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 2 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 3 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 4 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 5 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 6 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+			</table>
+			<hr>
+	</details>
+	<details>
+		<summary><b>Week 08</b></summary>
+			<hr>
+			<p>
+					2022-09-17
+			</p>
+			<table border="1">
+		<th>Report By</th>
+		<th>Status</th>
+		<th>Reports</th>
+		<th>Short Description</th>
+		<!-- line Unit 1 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 2 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 3 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 4 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 5 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 6 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+			</table>
+			<hr>
+	</details>
+	<details>
+		<summary><b>Week 09</b></summary>
+			<hr>
+			<p>
+					2022-09-24
+			</p>
+			<table border="1">
+		<th>Report By</th>
+		<th>Status</th>
+		<th>Reports</th>
+		<th>Short Description</th>
+		<!-- line Unit 1 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 2 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 3 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 4 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 5 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 6 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+			</table>
+			<hr>
+	</details>
+	<details>
+		<summary><b>Week 10</b></summary>
+			<hr>
+			<p>
+					2022-10-01
+			</p>
+			<table border="1">
+		<th>Report By</th>
+		<th>Status</th>
+		<th>Reports</th>
+		<th>Short Description</th>
+		<!-- line Unit 1 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 2 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 3 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 4 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 5 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 6 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+			</table>
+			<hr>
+	</details>
+	<details>
+		<summary><b>Week 11</b></summary>
+			<hr>
+			<p>
+					2022-10-08
+			</p>
+			<table border="1">
+		<th>Report By</th>
+		<th>Status</th>
+		<th>Reports</th>
+		<th>Short Description</th>
+		<!-- line Unit 1 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 2 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 3 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 4 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 5 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 6 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+			</table>
+			<hr>
+	</details>
+	<details>
+		<summary><b>Week 12</b></summary>
+			<hr>
+			<p>
+					2022-10-15
+			</p>
+			<table border="1">
+		<th>Report By</th>
+		<th>Status</th>
+		<th>Reports</th>
+		<th>Short Description</th>
+		<!-- line Unit 1 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 2 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 3 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 4 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 5 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 6 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+			</table>
+			<hr>
+	</details>
+	<details>
+		<summary><b>Week 13</b></summary>
+			<hr>
+			<p>
+					2022-10-22
+			</p>
+			<table border="1">
+		<th>Report By</th>
+		<th>Status</th>
+		<th>Reports</th>
+		<th>Short Description</th>
+		<!-- line Unit 1 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 2 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 3 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 4 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 5 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 6 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+			</table>
+			<hr>
+	</details>
+	<details>
+		<summary><b>Week 14</b></summary>
+			<hr>
+			<p>
+					2022-10-29
+			</p>
+			<table border="1">
+		<th>Report By</th>
+		<th>Status</th>
+		<th>Reports</th>
+		<th>Short Description</th>
+		<!-- line Unit 1 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 2 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 3 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 4 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 5 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 6 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+			</table>
+			<hr>
+	</details>
+	<details>
+		<summary><b>Week 15</b></summary>
+			<hr>
+			<p>
+					2022-11-06
+			</p>
+			<table border="1">
+		<th>Report By</th>
+		<th>Status</th>
+		<th>Reports</th>
+		<th>Short Description</th>
+		<!-- line Unit 1 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 2 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 3 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 4 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 5 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+		<!-- line Unit 6 -->
+		<tr>
+				<td>TraceofLight</td>
+				<td>Proceeding</td>
+					<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+				<td>Data Structure</td>
+		</tr>
+		<!-- line Unit End -->
+			</table>
+			<hr>
+	</details>
 </details>
