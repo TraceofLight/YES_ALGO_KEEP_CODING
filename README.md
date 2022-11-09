@@ -138,12 +138,13 @@
 
 ###  :round_pushpin: Algorithm
 
-- ####  Path: /Algorithm/{Platform}_{Qustion_Num}.py
+- ####  Path: /Algorithm/{Platform}_{Qustion_Num}.md
 
 - Based on `Python`
 
 - Platform 코드는 백준: `boj`, 프로그래머스: `ps`, 리트코드: `lc` 로 통일
 - 업로드 후 README의 Records 항목을 추가하고 Reports 에 경로를 추가할 것
+- 이미지 파일은 images 폴더에 통합 저장하며 파일 정보를 알 수 있도록 파일명을 제공할 것
 
 ###   :round_pushpin: Computer Science
 
@@ -167,8 +168,8 @@
 <!-- line 1 -->
 <tr>
 <td>TraceofLight</td>
-<td>Proceeding</td>
-<td><a href="./Algorithm/boj_12345">백준 - 쇠막대기</a></td>
+<td><b>Complete</b></td>
+<td><a href="./Algorithm/boj_10799.md">백준 - 쇠막대기</a></td>
 <td>Data Structure</td>
 </tr>
 <!-- line End -->
@@ -1084,3 +1085,4 @@
 </details>
 <!-- Week 15 End -->
 </details>
+
