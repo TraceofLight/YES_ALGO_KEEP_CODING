@@ -138,7 +138,7 @@
 
 ###  :round_pushpin: Algorithm
 
-- ####  Path: /Algorithm/{Platform}_{Qustion_Num}.md
+- ####  Path: /Algorithm/{Platform}_{Question_Number}.md
 
 - Based on `Python`
 
@@ -245,4 +245,3 @@
         </a>
     </div>
 </details>
-
