@@ -8,34 +8,34 @@
 
 <div style="overflow: scroll;">
 <table border="2">
-<th width="125" height="125" align="middle">
+<th width="100" height="100" align="middle">
 <a href="https://github.com/Joripje">
-<img src="https://avatars.githubusercontent.com/u/89237865?v=4" width="100" height="100">
+<img src="https://avatars.githubusercontent.com/u/89237865?v=4" width="80" height="80">
 </a>
 </th>
-<th width="125" height="125" align="middle">
+<th width="100" height="100" align="middle">
 <a href="https://github.com/kimsj-git">
-<img src="https://avatars.githubusercontent.com/u/109324498?v=4" width="100" height="100">
+<img src="https://avatars.githubusercontent.com/u/109324498?v=4" width="80" height="80">
 </a>
 </th>
-<th width="125" height="125" align="middle">
+<th width="100" height="100" align="middle">
 <a href="https://github.com/mucho7">
-<img src="https://avatars.githubusercontent.com/u/109324468?v=4" width="100" height="100">
+<img src="https://avatars.githubusercontent.com/u/109324468?v=4" width="80" height="80">
 </a>
 </th>
-<th width="125" height="125" align="middle">
+<th width="100" height="100" align="middle">
 <a href="https://github.com/seotai">
-<img src="https://avatars.githubusercontent.com/u/109324478?v=4" width="100" height="100">
+<img src="https://avatars.githubusercontent.com/u/109324478?v=4" width="80" height="80">
 </a>
 </th>
-<th width="125" height="125" align="middle">
+<th width="100" height="100" align="middle">
 <a href="https://github.com/sjsjlim">
-<img src="https://avatars.githubusercontent.com/u/109324476?v=4" width="100" height="100">
+<img src="https://avatars.githubusercontent.com/u/109324476?v=4" width="80" height="80">
 </a>
 </th>
-<th width="125" height="125" align="middle">
+<th width="100" height="100" align="middle">
 <a href="https://github.com/TraceofLight">
-<img src="https://avatars.githubusercontent.com/u/98262849?v=4" width="100" height="100">
+<img src="https://avatars.githubusercontent.com/u/98262849?v=4" width="80" height="80">
 </a>
 </th>
 <tr>
