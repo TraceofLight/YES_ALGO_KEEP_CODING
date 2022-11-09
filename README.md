@@ -63,9 +63,9 @@
 
   > IT 서비스 기업 취업에 필요한 지식 전반의 함양
 
-## :wrench: Methods 
+## :hammer: Methods
 
-### Algorithm :clipboard: 
+### :bulb: Algorithm
 
 <details>
 	<summary> Past Worked </summary>
@@ -97,23 +97,21 @@
   - CS를 중점으로, 알고리즘을 서브 목표로 변경
   - 기존에 학습한 지식 전반을 활용할 수 있도록 문항 선별 후 전부 풀이
 
-### Computer Science :computer:
+### :computer: Computer Science 
 
 - 초반 운영 계획 **[`Proceeding`]**
   - CS 기초 지식의 함양을 위한 정보처리기사 취득을 목표로 하는 학습
   - 심화 학습을 통한 면접 대비
 
-## :round_pushpin: Rules
+## :scroll: Rules
 
-###  :pushpin: Commits
+###   :round_pushpin: Commits
 
 - #### Title: {Commit_Type}: {Subject}
 
-- 작성되는 모든 Commit에 해당 룰을 적용
+- **Title은 50자 미만, Body는 부가 설명을 간략하게 기재**
 
-- Title은 50자 미만, Body는 부가 설명
-
-- 사용할 Commit Types
+- **Commit Types**
 
   - **Docs**: 새로운 문서의 추가 및 수정
   - **Refactor**: 기능 변화가 없는 버그 수정 및 코드의 변경
@@ -122,8 +120,11 @@
   - **Chore**: 기타 변경 사항
   - **Revert**: 작업 되돌리기
 
+  ---
+  
   <details>
       <summary>Click Here To See More Types</summary>
+      <br>
       <p>Feat: 새로운 기능의 추가</p>
       <p>Fix: 버그 수정</p>
       <p>Ci: CI 관련 설정의 수정</p>
@@ -135,7 +136,7 @@
   	<p>Correct: 문법 오류, 오타 등의 정정</p>
   </details>
 
-### :pushpin: Algorithm
+###  :round_pushpin: Algorithm
 
 - ####  Path: /Algorithm/{Platform}_{Qustion_Num}.py
 
@@ -144,7 +145,7 @@
 - Platform 코드는 백준: `boj`, 프로그래머스: `ps`, 리트코드: `lc` 로 통일
 - 업로드 후 README의 Records 항목을 추가하고 Reports 에 경로를 추가할 것
 
-###  :pushpin: Computer Science
+###   :round_pushpin: Computer Science
 
 - #### Path: /ComputerScience/{Topic_Title}.md
 
