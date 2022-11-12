@@ -156,92 +156,39 @@
 	<summary><b>Click Here To See All Records</b></summary>
     <div>
         <br>
-    	<a href="./ScheduleTable/WEEK_01.md" style="text-decoration: none; color: #000000; font-weight:bold;">
-            Algorithm Week 01: Intro, Data Structure
+    	<a href="./Records/TraceofLight.md" style="text-decoration: none; color: #000000; font-weight:bold;">
+            TraceofLight's Records
         </a>
     </div>
     <div>
         <br>
-    	<a href="./ScheduleTable/WEEK_02.md" style="text-decoration: none; color: #000000; font-weight:bold;">
-            Algorithm Week 02: Math (1)
+    	<a href="./Records/Joripje.md" style="text-decoration: none; color: #000000; font-weight:bold;">
+            Joripje's Records
         </a>
     </div>
     <div>
         <br>
-    	<a href="./ScheduleTable/WEEK_03.md" style="text-decoration: none; color: #000000; font-weight:bold;">
-            Algorithm Week 03: Math (2)
+    	<a href="./Records/kimsj-git.md" style="text-decoration: none; color: #000000; font-weight:bold;">
+            kimsj-git's Records
         </a>
     </div>
     <div>
         <br>
-    	<a href="./ScheduleTable/WEEK_04.md" style="text-decoration: none; color: #000000; font-weight:bold;">
-            Algorithm Week 04: Dynamic Programming
+    	<a href="./Records/mucho7.md" style="text-decoration: none; color: #000000; font-weight:bold;">
+            mucho7's Records
         </a>
     </div>
     <div>
         <br>
-    	<a href="./ScheduleTable/WEEK_05.md" style="text-decoration: none; color: #000000; font-weight:bold;">
-            Algorithm Week 05: Brute Force
+    	<a href="./Records/seotai.md" style="text-decoration: none; color: #000000; font-weight:bold;">
+            seotai's Records
         </a>
     </div>
     <div>
         <br>
-    	<a href="./ScheduleTable/WEEK_06.md" style="text-decoration: none; color: #000000; font-weight:bold;">
-            Algorithm Week 06: Graph
-        </a>
-    </div>
-    <div>
-        <br>
-    	<a href="./ScheduleTable/WEEK_07.md" style="text-decoration: none; color: #000000; font-weight:bold;">
-            Algorithm Week 07: Tree
-        </a>
-    </div>
-    <div>
-        <br>
-    	<a href="./ScheduleTable/WEEK_08.md" style="text-decoration: none; color: #000000; font-weight:bold;">
-            Algorithm Week 08: Binary Search
-        </a>
-    </div>
-    <div>
-        <br>
-    	<a href="./ScheduleTable/WEEK_09.md" style="text-decoration: none; color: #000000; font-weight:bold;">
-            Algorithm Week 09: Bit Masking
-        </a>
-    </div>
-    <div>
-        <br>
-    	<a href="./ScheduleTable/WEEK_10.md" style="text-decoration: none; color: #000000; font-weight:bold;">
-            Algorithm Week 10: Greedy, Two Pointer
-        </a>
-    </div>
-    <div>
-        <br>
-    	<a href="./ScheduleTable/WEEK_11.md" style="text-decoration: none; color: #000000; font-weight:bold;">
-            Algorithm Week 11: Disjoint Set, Topology Sort
-        </a>
-    </div>
-    <div>
-        <br>
-    	<a href="./ScheduleTable/WEEK_12.md" style="text-decoration: none; color: #000000; font-weight:bold;">
-            Algorithm Week 12: Implementation, Simulation
-        </a>
-    </div>
-    <div>
-        <br>
-    	<a href="./ScheduleTable/WEEK_13.md" style="text-decoration: none; color: #000000; font-weight:bold;">
-            Algorithm Week 13: Devide and Conquer
-        </a>
-    </div>
-    <div>
-        <br>
-    	<a href="./ScheduleTable/WEEK_14.md" style="text-decoration: none; color: #000000; font-weight:bold;">
-            Algorithm Week 14: Trie
-        </a>
-    </div>
-    <div>
-        <br>
-    	<a href="./ScheduleTable/WEEK_15.md" style="text-decoration: none; color: #000000; font-weight:bold;">
-            Algorithm Week 15: Segment Tree
+    	<a href="./Records/sjsjslim.md" style="text-decoration: none; color: #000000; font-weight:bold;">
+            sjsjslim's Records
         </a>
     </div>
 </details>
+
