@@ -138,17 +138,29 @@
 
 ###  :round_pushpin: Algorithm
 
-- ####  Path: /Algorithm/{Platform}_{Question_Number}.md
+- ####  Path: /Algorithm/{Platform}_{QuestionNumber}.md
 
 - Based on `Python`
 
 - Platform 코드는 백준: `boj`, 프로그래머스: `ps`, 리트코드: `lc` 로 통일
-- 업로드 후 README의 Records 항목을 추가하고 Reports 에 경로를 추가할 것
+- 업로드 후 각자의 Reports 에 경로를 추가할 것
 - 이미지 파일은 images 폴더에 통합 저장하며 파일 정보를 알 수 있도록 파일명을 제공할 것
 
-###   :round_pushpin: Computer Science
+###   :round_pushpin: Operating System
 
-- #### Path: /ComputerScience/{Topic_Title}.md
+- #### Path: /ComputerScience/OperatingSystem/{UserName}/{PartTitle}.md
+
+- Based on [운영체제와 정보기술의 원리 by 반효경 (2014년 KOCW)](http://www.kocw.net/home/cview.do?cid=3646706b4347ef09)
+
+- 이미지 파일은 UserName 이하 images 폴더에 통합 저장하며 파일 정보를 알 수 있도록 파일명을 제공할 것
+
+###   :round_pushpin: Network
+
+- #### Path: /ComputerScience/Network/{UserName}/Network_Week_{WeekNumber}.md
+
+- Based on [성공과 실패를 결정하는 1%의 네트워크 원리 (2nd Edition)](https://nl.go.kr/seoji/contents/S80100000000.do?schM=intgr_detail_view_isbn&isbn=9788931553482)
+
+- 이미지 파일은 UserName 이하 images 폴더에 통합 저장하며 파일 정보를 알 수 있도록 파일명을 제공할 것
 
 ## :movie_camera: Records
 
@@ -191,4 +203,3 @@
         </a>
     </div>
 </details>
-
