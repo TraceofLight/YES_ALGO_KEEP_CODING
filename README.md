@@ -1,3 +1,9 @@
+# _\*\*\* This Repository Is Deprecated ***_
+
+### [Click Here](https://github.com/yes-algo-keep-coding) to see new Repository
+
+
+
 # :books: YES ALGO KEEP CODING
 
 > 알고리즘 스터디로 시작하여 CS 스터디로 뻗어나가는 **'모여서 각자 알고리즘'** 의 Git Repository
